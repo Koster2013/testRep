@@ -1,2 +1,2 @@
-effective-git-workshop
+git
 ======================
